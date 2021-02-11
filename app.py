@@ -5,7 +5,7 @@ import requests
 
 url = 'https://infobit.space/api/threads/'
 
-headers = {'XF-Api-Key': 'sQc4HYWadjy7Q5-O8wM0ImSxlAWyEQyR'}
+headers = {'XF-Api-Key': ''}
 
 payload = {
     # 'api_bypass_permissions': 1,
