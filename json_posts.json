@@ -1,0 +1,214 @@
+/home/velllum/PycharmProjects/XenForo_requests/venv/bin/python /home/velllum/PycharmProjects/XenForo_requests/app.py
+{
+    "post": {
+        "Attachments": [
+            {
+                "attach_date": 1600490096,
+                "attachment_id": 6244,
+                "content_id": 9839,
+                "content_type": "post",
+                "file_size": 337084,
+                "filename": "image_0.png",
+                "height": 355,
+                "thumbnail_url": "https://infobit.space/data/attachments/6/6244-d6fc116da18c9142490016f10c49d9ac.jpg",
+                "view_count": 0,
+                "width": 1141
+            }
+        ],
+        "Thread": {
+            "Forum": {
+                "breadcrumbs": [
+                    {
+                        "node_id": 1,
+                        "node_type_id": "Category",
+                        "title": "КАТАЛОГ ИНФОПРОДУКТОВ" // имя главного каталога
+                    }
+                ],
+                "description": "Курсы по программированию, администрированию и работе на компьютере",
+                "display_in_list": true,
+                "display_order": 10,
+                "node_id": 7,
+                "node_name": null,
+                "node_type_id": "Forum",
+                "parent_node_id": 1,
+                "title": "Программирование, администрирование",  // подкоталог
+                "type_data": {
+                    "allow_poll": true,
+                    "allow_posting": true,
+                    "can_create_thread": false,
+                    "can_upload_attachment": false,
+                    "discussion_count": 1163,
+                    "last_post_date": 1612472324,
+                    "last_post_id": 8726,
+                    "last_post_username": "testeriksus",
+                    "last_thread_id": 8726,
+                    "last_thread_prefix_id": 0,
+                    "last_thread_title": "[HTML Academy] Интенсив по профессиональной верстке сайтов",
+                    "message_count": 1163,
+                    "min_tags": 0,
+                    "require_prefix": true
+                }
+            },
+            "User": {
+                "avatar_urls": {
+                    "h": "https://robohash.org/testeriksus/?size=48x48",
+                    "l": "https://robohash.org/testeriksus/?size=192x192",
+                    "m": "https://robohash.org/testeriksus/?size=96x96",
+                    "o": "https://robohash.org/testeriksus/?size=384x384",
+                    "s": "https://robohash.org/testeriksus/?size=48x48"
+                },
+                "can_ban": false,
+                "can_converse": false,
+                "can_edit": false,
+                "can_follow": false,
+                "can_ignore": false,
+                "can_post_profile": false,
+                "can_view_profile": false,
+                "can_view_profile_posts": false,
+                "can_warn": false,
+                "is_staff": false,
+                "last_activity": 1612972746,
+                "location": "",
+                "message_count": 27827,
+                "reaction_score": 0,
+                "register_date": 1612386000,
+                "signature": "",
+                "trophy_points": 36,
+                "user_id": 4799,
+                "user_title": "Админ",
+                "username": "testeriksus"
+            },
+            "can_edit": false,
+            "can_edit_tags": false,
+            "can_hard_delete": false,
+            "can_reply": false,
+            "can_soft_delete": false,
+            "can_view_attachments": false,
+            "custom_fields": {},
+            "discussion_open": true,
+            "discussion_state": "visible",
+            "discussion_type": "",
+            "first_post_id": 9839,
+            "first_post_reaction_score": 0,
+            "last_post_date": 1612469196,
+            "last_post_id": 9839,
+            "last_post_user_id": 4799,
+            "last_post_username": "testeriksus",
+            "node_id": 7,
+            "post_date": 1612469196,
+            "prefix": "Скачать",
+            "prefix_id": 2,
+            "reply_count": 0,
+            "sticky": false,
+            "tags": [],
+            "thread_id": 9839,
+            "title": "[Олег Молчанов] Python ООП (2020)",
+            "user_id": 4799,
+            "username": "testeriksus",
+            "view_count": 8
+        },
+        "User": {
+            "avatar_urls": {
+                "h": "https://robohash.org/testeriksus/?size=48x48",
+                "l": "https://robohash.org/testeriksus/?size=192x192",
+                "m": "https://robohash.org/testeriksus/?size=96x96",
+                "o": "https://robohash.org/testeriksus/?size=384x384",
+                "s": "https://robohash.org/testeriksus/?size=48x48"
+            },
+            "can_ban": false,
+            "can_converse": false,
+            "can_edit": false,
+            "can_follow": false,
+            "can_ignore": false,
+            "can_post_profile": false,
+            "can_view_profile": false,
+            "can_view_profile_posts": false,
+            "can_warn": false,
+            "is_staff": false,
+            "last_activity": 1612972746,
+            "location": "",
+            "message_count": 27827,
+            "reaction_score": 0,
+            "register_date": 1612386000,
+            "signature": "",
+            "trophy_points": 36,
+            "user_id": 4799,
+            "user_title": "Админ",
+            "username": "testeriksus"
+        },
+        "attach_count": 1,
+        "can_edit": false,
+        "can_hard_delete": false,
+        "can_react": false,
+        "can_soft_delete": false,
+        "can_view_attachments": false,
+        "is_first_post": true,
+        "is_last_post": true,
+        "last_edit_date": 0,
+        "message": "[b]Автор:[/b] Олег Молчанов
+[b]Название:[/b] Python ООП (2020)
+[ATTACH type="full"]6244[/ATTACH]
+[b]Python ООП[/b]
+
+Новый курс по "Объектно-ориентированному программированию в Python" и это его карта.
+#0. ООП: Введение (проблема процедурного подхода)
+
+#1. ООП: Объекты и классы
+
+#2. ООП: Атрибуты класса и функции
+
+#3. ООП: Классы как callable-объекты, экземпляры классов
+
+#4. ООП: Функции классов и методы экземпляров, self
+
+#5. ООП: Инициализация экземляров, __init__ метод
+
+#6. ООП: Статические методы и декоратор @staticmethod
+
+#7. ООП: Инкапсуляция, приватные атрибуты и публичный интерфейс
+
+#8. ООП: Пример 1
+
+#9. ООП: Name mangling
+
+#10. ООП: Область видимости классов и Методы класса @classmethod
+
+#11. ООП: Свойства @property, геттеры и сеттеры (getter, setter)
+
+#12. ООП: Свойства только для чтения и вычисляемые свойства
+
+#13. ООП: Наследование, перегрузка методов и расширение функциональности
+
+#14. ООП: Множественное наследование, mro, миксины
+
+#15. ООП: Полиморфизм, перегрузка операторов
+
+#16. ООП: Хэшируемые объекты и равенство
+
+#17. ООП: super() и делегирование родителям
+
+#18. ООП: Дескрипторы. Non-data дескрипторы
+
+#19. ООП: Дескрипторы данных
+
+#20. ООП: Слабые ссылки weakref и проблема хранения данных в экземпляре дескриптора
+
+#21. ООП: Метод __set_name__ и хранение данных в экземпляре класса-владельца
+
+[b]Подробнее:[/b]
+[CLIKE][URL]https://www.patreon.com/posts/karta-kursa-oop-41010968[/URL][/CLIKE]
+[b]Скачать:[/b]
+[CLIKE][URL="https://cloud.mail.ru/public/VJzm/5vEExxr31"]Папка из Облака Mail.ru[/URL][/CLIKE]",
+        "message_state": "visible",
+        "position": 0,
+        "post_date": 1612469196,
+        "post_id": 9839,
+        "reaction_score": 0,
+        "thread_id": 9839,
+        "user_id": 4799,
+        "username": "testeriksus",
+        "warning_message": ""
+    }
+}
+
+Process finished with exit code 0

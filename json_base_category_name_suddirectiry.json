@@ -1,0 +1,619 @@
+{
+    "tree_map": {
+        "0": [
+            20,
+            1
+        ],
+        "20": [
+            22
+        ],
+        "1": [
+            3,
+            2,
+            6,
+            5,
+            13,
+            8,
+            11,
+            12,
+            14,
+            7,
+            9,
+            15,
+            17,
+            10,
+            16,
+            18
+        ]
+    },
+    "nodes": [
+        {
+            "breadcrumbs": [],
+            "description": "Правила, инструкции",
+            "display_in_list": true,
+            "display_order": 1,
+            "node_id": 20,
+            "node_name": null,
+            "node_type_id": "Forum",
+            "parent_node_id": 0,
+            "title": "Инфоцентр",
+            "type_data": {
+                "allow_poll": true,
+                "allow_posting": true,
+                "can_create_thread": false,
+                "can_upload_attachment": false,
+                "discussion_count": 2,
+                "last_post_date": 1601477100,
+                "last_post_id": 58570,
+                "last_post_username": "Admin",
+                "last_thread_id": 58570,
+                "last_thread_prefix_id": 0,
+                "last_thread_title": "Как скачивать материалы?",
+                "message_count": 2,
+                "min_tags": 0,
+                "require_prefix": false
+            }
+        },
+        {
+            "breadcrumbs": [
+                {
+                    "node_id": 20,
+                    "title": "Инфоцентр",
+                    "node_type_id": "Forum"
+                }
+            ],
+            "description": "",
+            "display_in_list": true,
+            "display_order": 1,
+            "node_id": 22,
+            "node_name": null,
+            "node_type_id": "LinkForum",
+            "parent_node_id": 20,
+            "title": "Открыть доступ ко всем материалам",
+            "type_data": {
+                "link_url": "https://infobit.space/threads/poluchi-dostup-ko-vsem-materialam-sajta.58569/",
+                "redirect_count": 0
+            }
+        },
+        {
+            "breadcrumbs": [],
+            "description": "База лучших инфопродуктов, курсов, тренингов и книг",
+            "display_in_list": true,
+            "display_order": 2,
+            "node_id": 1,
+            "node_name": null,
+            "node_type_id": "Category",
+            "parent_node_id": 0,
+            "title": "КАТАЛОГ ИНФОПРОДУКТОВ",
+            "type_data": {}
+        },
+        {
+            "breadcrumbs": [
+                {
+                    "node_id": 1,
+                    "title": "КАТАЛОГ ИНФОПРОДУКТОВ",
+                    "node_type_id": "Category"
+                }
+            ],
+            "description": "Раздачи, которые скоро будут опубликованы",
+            "display_in_list": true,
+            "display_order": 1,
+            "node_id": 3,
+            "node_name": null,
+            "node_type_id": "Forum",
+            "parent_node_id": 1,
+            "title": "Скоро на сайте",
+            "type_data": {
+                "allow_poll": false,
+                "allow_posting": true,
+                "can_create_thread": false,
+                "can_upload_attachment": false,
+                "discussion_count": 30292,
+                "last_post_date": 1600766881,
+                "last_post_id": 51163,
+                "last_post_username": "Admin",
+                "last_thread_id": 51163,
+                "last_thread_prefix_id": 1,
+                "last_thread_title": "Профессия Go-разработчик [Skillbox] [Антон Жуков, Александр Соколов]",
+                "message_count": 30292,
+                "min_tags": 0,
+                "require_prefix": true
+            }
+        },
+        {
+            "breadcrumbs": [
+                {
+                    "node_id": 1,
+                    "title": "КАТАЛОГ ИНФОПРОДУКТОВ",
+                    "node_type_id": "Category"
+                }
+            ],
+            "description": "Курсы по бизнесу и заработку",
+            "display_in_list": true,
+            "display_order": 2,
+            "node_id": 2,
+            "node_name": null,
+            "node_type_id": "Forum",
+            "parent_node_id": 1,
+            "title": "Бизнес и заработок",
+            "type_data": {
+                "allow_poll": true,
+                "allow_posting": true,
+                "can_create_thread": false,
+                "can_upload_attachment": false,
+                "discussion_count": 5829,
+                "last_post_date": 1612472267,
+                "last_post_id": 2713,
+                "last_post_username": "testeriksus",
+                "last_thread_id": 2713,
+                "last_thread_prefix_id": 0,
+                "last_thread_title": "[Алексей Сумин] [Видео-курс] Как упаковать свою франшизу самостоятельно (2020, Packmy.biz)",
+                "message_count": 5829,
+                "min_tags": 0,
+                "require_prefix": true
+            }
+        },
+        {
+            "breadcrumbs": [
+                {
+                    "node_id": 1,
+                    "title": "КАТАЛОГ ИНФОПРОДУКТОВ",
+                    "node_type_id": "Category"
+                }
+            ],
+            "description": "Курсы по психологии, эзотерике, саморазвитию",
+            "display_in_list": true,
+            "display_order": 3,
+            "node_id": 6,
+            "node_name": null,
+            "node_type_id": "Forum",
+            "parent_node_id": 1,
+            "title": "Психология, эзотерика, саморазвитие",
+            "type_data": {
+                "allow_poll": true,
+                "allow_posting": true,
+                "can_create_thread": false,
+                "can_upload_attachment": false,
+                "discussion_count": 5090,
+                "last_post_date": 1612472314,
+                "last_post_id": 15536,
+                "last_post_username": "testeriksus",
+                "last_thread_id": 15536,
+                "last_thread_prefix_id": 0,
+                "last_thread_title": "[Надежда Семененко] Живу так, как хочу (2019)",
+                "message_count": 5090,
+                "min_tags": 0,
+                "require_prefix": true
+            }
+        },
+        {
+            "breadcrumbs": [
+                {
+                    "node_id": 1,
+                    "title": "КАТАЛОГ ИНФОПРОДУКТОВ",
+                    "node_type_id": "Category"
+                }
+            ],
+            "description": "Курсы по трейдингу, форексу, инвестициям, опционам",
+            "display_in_list": true,
+            "display_order": 4,
+            "node_id": 5,
+            "node_name": null,
+            "node_type_id": "Forum",
+            "parent_node_id": 1,
+            "title": "Трейдинг, инвестиции",
+            "type_data": {
+                "allow_poll": true,
+                "allow_posting": true,
+                "can_create_thread": false,
+                "can_upload_attachment": false,
+                "discussion_count": 1796,
+                "last_post_date": 1612471776,
+                "last_post_id": 10777,
+                "last_post_username": "testeriksus",
+                "last_thread_id": 10777,
+                "last_thread_prefix_id": 0,
+                "last_thread_title": "[Алексей Хорошев] Успех в трейдинге (2019)",
+                "message_count": 1796,
+                "min_tags": 0,
+                "require_prefix": true
+            }
+        },
+        {
+            "breadcrumbs": [
+                {
+                    "node_id": 1,
+                    "title": "КАТАЛОГ ИНФОПРОДУКТОВ",
+                    "node_type_id": "Category"
+                }
+            ],
+            "description": "Курсы по здоровью, спорту, красоте",
+            "display_in_list": true,
+            "display_order": 5,
+            "node_id": 13,
+            "node_name": null,
+            "node_type_id": "Forum",
+            "parent_node_id": 1,
+            "title": "Здоровье, спорт, красота",
+            "type_data": {
+                "allow_poll": true,
+                "allow_posting": true,
+                "can_create_thread": false,
+                "can_upload_attachment": false,
+                "discussion_count": 2688,
+                "last_post_date": 1612472314,
+                "last_post_id": 27084,
+                "last_post_username": "testeriksus",
+                "last_thread_id": 27084,
+                "last_thread_prefix_id": 0,
+                "last_thread_title": "[Etoproketo] Пошаговое пособие для похудения",
+                "message_count": 2688,
+                "min_tags": 0,
+                "require_prefix": true
+            }
+        },
+        {
+            "breadcrumbs": [
+                {
+                    "node_id": 1,
+                    "title": "КАТАЛОГ ИНФОПРОДУКТОВ",
+                    "node_type_id": "Category"
+                }
+            ],
+            "description": "Курсы по пикапу, отношениям, сексу",
+            "display_in_list": true,
+            "display_order": 6,
+            "node_id": 8,
+            "node_name": null,
+            "node_type_id": "Forum",
+            "parent_node_id": 1,
+            "title": "Соблазнение, отношения, секс",
+            "type_data": {
+                "allow_poll": true,
+                "allow_posting": true,
+                "can_create_thread": false,
+                "can_upload_attachment": false,
+                "discussion_count": 1444,
+                "last_post_date": 1612472176,
+                "last_post_id": 19605,
+                "last_post_username": "testeriksus",
+                "last_thread_id": 19605,
+                "last_thread_prefix_id": 2,
+                "last_thread_title": "[Настя Рыбка] Академии порядочных рыб 3-й класс (2020)",
+                "message_count": 1444,
+                "min_tags": 0,
+                "require_prefix": true
+            }
+        },
+        {
+            "breadcrumbs": [
+                {
+                    "node_id": 1,
+                    "title": "КАТАЛОГ ИНФОПРОДУКТОВ",
+                    "node_type_id": "Category"
+                }
+            ],
+            "description": "Курсы по фотографии, видеообработке и монтажу",
+            "display_in_list": true,
+            "display_order": 7,
+            "node_id": 11,
+            "node_name": null,
+            "node_type_id": "Forum",
+            "parent_node_id": 1,
+            "title": "Фото, видео",
+            "type_data": {
+                "allow_poll": true,
+                "allow_posting": true,
+                "can_create_thread": false,
+                "can_upload_attachment": false,
+                "discussion_count": 1735,
+                "last_post_date": 1612472398,
+                "last_post_id": 6361,
+                "last_post_username": "testeriksus",
+                "last_thread_id": 6361,
+                "last_thread_prefix_id": 2,
+                "last_thread_title": "[Полина Дятлова] Видеоурок по обработке в Фотошоп (ретушь) (2020)",
+                "message_count": 1735,
+                "min_tags": 0,
+                "require_prefix": true
+            }
+        },
+        {
+            "breadcrumbs": [
+                {
+                    "node_id": 1,
+                    "title": "КАТАЛОГ ИНФОПРОДУКТОВ",
+                    "node_type_id": "Category"
+                }
+            ],
+            "description": "Курсы по дизайну, графика",
+            "display_in_list": true,
+            "display_order": 8,
+            "node_id": 12,
+            "node_name": null,
+            "node_type_id": "Forum",
+            "parent_node_id": 1,
+            "title": "Дизайн, графика",
+            "type_data": {
+                "allow_poll": true,
+                "allow_posting": true,
+                "can_create_thread": false,
+                "can_upload_attachment": false,
+                "discussion_count": 917,
+                "last_post_date": 1612472340,
+                "last_post_id": 11747,
+                "last_post_username": "testeriksus",
+                "last_thread_id": 11747,
+                "last_thread_prefix_id": 0,
+                "last_thread_title": "FASHION DESIGN SCHOOL ВЫСШАЯ ШКОЛА МОДЫ",
+                "message_count": 917,
+                "min_tags": 0,
+                "require_prefix": true
+            }
+        },
+        {
+            "breadcrumbs": [
+                {
+                    "node_id": 1,
+                    "title": "КАТАЛОГ ИНФОПРОДУКТОВ",
+                    "node_type_id": "Category"
+                }
+            ],
+            "description": "Заработок на казино, ставках, прогнозах на спорт",
+            "display_in_list": true,
+            "display_order": 9,
+            "node_id": 14,
+            "node_name": null,
+            "node_type_id": "Forum",
+            "parent_node_id": 1,
+            "title": "Казино, ставки, прогнозы на спорт",
+            "type_data": {
+                "allow_poll": true,
+                "allow_posting": true,
+                "can_create_thread": false,
+                "can_upload_attachment": false,
+                "discussion_count": 481,
+                "last_post_date": 1612472355,
+                "last_post_id": 12851,
+                "last_post_username": "testeriksus",
+                "last_thread_id": 12851,
+                "last_thread_prefix_id": 0,
+                "last_thread_title": "Заработок на договорных матчах",
+                "message_count": 481,
+                "min_tags": 0,
+                "require_prefix": true
+            }
+        },
+        {
+            "breadcrumbs": [
+                {
+                    "node_id": 1,
+                    "title": "КАТАЛОГ ИНФОПРОДУКТОВ",
+                    "node_type_id": "Category"
+                }
+            ],
+            "description": "Курсы по программированию, администрированию и работе на компьютере",
+            "display_in_list": true,
+            "display_order": 10,
+            "node_id": 7,
+            "node_name": null,
+            "node_type_id": "Forum",
+            "parent_node_id": 1,
+            "title": "Программирование, администрирование",
+            "type_data": {
+                "allow_poll": true,
+                "allow_posting": true,
+                "can_create_thread": false,
+                "can_upload_attachment": false,
+                "discussion_count": 1163,
+                "last_post_date": 1612472324,
+                "last_post_id": 8726,
+                "last_post_username": "testeriksus",
+                "last_thread_id": 8726,
+                "last_thread_prefix_id": 0,
+                "last_thread_title": "[HTML Academy] Интенсив по профессиональной верстке сайтов",
+                "message_count": 1163,
+                "min_tags": 0,
+                "require_prefix": true
+            }
+        },
+        {
+            "breadcrumbs": [
+                {
+                    "node_id": 1,
+                    "title": "КАТАЛОГ ИНФОПРОДУКТОВ",
+                    "node_type_id": "Category"
+                }
+            ],
+            "description": "Софт, базы данных, скрипты",
+            "display_in_list": true,
+            "display_order": 11,
+            "node_id": 9,
+            "node_name": null,
+            "node_type_id": "Forum",
+            "parent_node_id": 1,
+            "title": "Софт, базы данных, скрипты",
+            "type_data": {
+                "allow_poll": true,
+                "allow_posting": true,
+                "can_create_thread": false,
+                "can_upload_attachment": false,
+                "discussion_count": 399,
+                "last_post_date": 1612471383,
+                "last_post_id": 5624,
+                "last_post_username": "testeriksus",
+                "last_thread_id": 5624,
+                "last_thread_prefix_id": 0,
+                "last_thread_title": "[CodeCanyon] AdHook - скрипт рекламной сети",
+                "message_count": 399,
+                "min_tags": 0,
+                "require_prefix": true
+            }
+        },
+        {
+            "breadcrumbs": [
+                {
+                    "node_id": 1,
+                    "title": "КАТАЛОГ ИНФОПРОДУКТОВ",
+                    "node_type_id": "Category"
+                }
+            ],
+            "description": "Курсы для родителей о воспитании и общении с детьми",
+            "display_in_list": true,
+            "display_order": 12,
+            "node_id": 15,
+            "node_name": null,
+            "node_type_id": "Forum",
+            "parent_node_id": 1,
+            "title": "Дети и родители",
+            "type_data": {
+                "allow_poll": true,
+                "allow_posting": true,
+                "can_create_thread": false,
+                "can_upload_attachment": false,
+                "discussion_count": 3602,
+                "last_post_date": 1612472337,
+                "last_post_id": 21779,
+                "last_post_username": "testeriksus",
+                "last_thread_id": 21779,
+                "last_thread_prefix_id": 0,
+                "last_thread_title": "[Алексей Меняйлов] Золушку царской невестой воспитал отец, сделав то, что другие отцы не делали",
+                "message_count": 3602,
+                "min_tags": 0,
+                "require_prefix": true
+            }
+        },
+        {
+            "breadcrumbs": [
+                {
+                    "node_id": 1,
+                    "title": "КАТАЛОГ ИНФОПРОДУКТОВ",
+                    "node_type_id": "Category"
+                }
+            ],
+            "description": "Курсы по творчеству и рукоделию",
+            "display_in_list": true,
+            "display_order": 13,
+            "node_id": 17,
+            "node_name": null,
+            "node_type_id": "Forum",
+            "parent_node_id": 1,
+            "title": "Творчество, рукоделие",
+            "type_data": {
+                "allow_poll": true,
+                "allow_posting": true,
+                "can_create_thread": false,
+                "can_upload_attachment": false,
+                "discussion_count": 411,
+                "last_post_date": 1612472383,
+                "last_post_id": 23319,
+                "last_post_username": "testeriksus",
+                "last_thread_id": 23319,
+                "last_thread_prefix_id": 0,
+                "last_thread_title": "[Екатерина Вострухина] Скоростной маникюр (2019)",
+                "message_count": 411,
+                "min_tags": 0,
+                "require_prefix": true
+            }
+        },
+        {
+            "breadcrumbs": [
+                {
+                    "node_id": 1,
+                    "title": "КАТАЛОГ ИНФОПРОДУКТОВ",
+                    "node_type_id": "Category"
+                }
+            ],
+            "description": "Курсы по изучению иностранных языков",
+            "display_in_list": true,
+            "display_order": 14,
+            "node_id": 10,
+            "node_name": null,
+            "node_type_id": "Forum",
+            "parent_node_id": 1,
+            "title": "Иностранные языки",
+            "type_data": {
+                "allow_poll": true,
+                "allow_posting": true,
+                "can_create_thread": false,
+                "can_upload_attachment": false,
+                "discussion_count": 104,
+                "last_post_date": 1612472056,
+                "last_post_id": 12578,
+                "last_post_username": "testeriksus",
+                "last_thread_id": 12578,
+                "last_thread_prefix_id": 2,
+                "last_thread_title": "Иностранный - легко и с удовольствием",
+                "message_count": 104,
+                "min_tags": 0,
+                "require_prefix": true
+            }
+        },
+        {
+            "breadcrumbs": [
+                {
+                    "node_id": 1,
+                    "title": "КАТАЛОГ ИНФОПРОДУКТОВ",
+                    "node_type_id": "Category"
+                }
+            ],
+            "description": "Курсы по отдыху и путешествиям",
+            "display_in_list": true,
+            "display_order": 15,
+            "node_id": 16,
+            "node_name": null,
+            "node_type_id": "Forum",
+            "parent_node_id": 1,
+            "title": "Отдых и путешествия",
+            "type_data": {
+                "allow_poll": true,
+                "allow_posting": true,
+                "can_create_thread": false,
+                "can_upload_attachment": false,
+                "discussion_count": 717,
+                "last_post_date": 1612472077,
+                "last_post_id": 7976,
+                "last_post_username": "testeriksus",
+                "last_thread_id": 7976,
+                "last_thread_prefix_id": 2,
+                "last_thread_title": "[RichAdvert. Виталий Стеценко] Прибыльный Google Ads поиск + товарка + Серая нутра + Google Ads (2020)",
+                "message_count": 717,
+                "min_tags": 0,
+                "require_prefix": true
+            }
+        },
+        {
+            "breadcrumbs": [
+                {
+                    "node_id": 1,
+                    "title": "КАТАЛОГ ИНФОПРОДУКТОВ",
+                    "node_type_id": "Category"
+                }
+            ],
+            "description": "Разные инфопродукты, не вошедшие в другие разделы",
+            "display_in_list": true,
+            "display_order": 16,
+            "node_id": 18,
+            "node_name": null,
+            "node_type_id": "Forum",
+            "parent_node_id": 1,
+            "title": "Разные инфокурсы",
+            "type_data": {
+                "allow_poll": true,
+                "allow_posting": true,
+                "can_create_thread": false,
+                "can_upload_attachment": false,
+                "discussion_count": 1450,
+                "last_post_date": 1612472360,
+                "last_post_id": 24408,
+                "last_post_username": "testeriksus",
+                "last_thread_id": 24408,
+                "last_thread_prefix_id": 0,
+                "last_thread_title": "Денежная метла",
+                "message_count": 1450,
+                "min_tags": 0,
+                "require_prefix": true
+            }
+        }
+    ]
+}
