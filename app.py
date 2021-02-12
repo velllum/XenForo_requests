@@ -3,7 +3,7 @@ import json
 
 import requests
 
-# url = 'https://infobit.space/api/threads/' # получили даные из новые темы
+# url = 'https://infobit.space/api/threads/' # получили данные постов в количестве 40 шт
 # url = 'https://infobit.space/api/posts/9839' # получили стаью по его ид ключь last_post_id
 # url = 'https://infobit.space/api/nodes/' # получили подкатегории из главной категории "КАТАЛОГ ИНФОПРОДУКТОВ"
 from config import key
